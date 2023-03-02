@@ -1,4 +1,9 @@
-### Hi there 👋
+### @huyb1991 👋
+
+<p align="center">
+  <a href="https://github.com/huyb1991"><img src="https://img.shields.io/github/followers/huyb1991.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://github.com/huyb1991/hugo-lamp"><img src="https://img.shields.io/github/stars/huyb1991/hugo-lamp.svg?label=hugo-lamp&style=social" alt="Hugo-lamp on GitHub"></a>
+</p>
 
 ![Huy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=huyb1991&count_private=true&show_icons=true&theme=transparent)
 
