@@ -9,50 +9,49 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyb1991&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ---
 ### Tech stacks
 
+<!-- Web knownledge & Tools -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,md,gherkin,svg,regex,vscode,ps,figma,codepen,postman" />
+  </a>
+</p>
 <!-- Front-end -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,svg,ts,sass,bootstrap,materialui,tailwind" />
+    <img src="https://skillicons.dev/icons?i=jquery,react,sass,bootstrap,materialui,tailwind,pug,jest,sentry" />
   </a>
 </p>
-<!-- Stat management and DB -->
+<!-- State management and DB -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,graphql,prisma,apollo,mysql,mongodb," />
+    <img src="https://skillicons.dev/icons?i=redux,graphql,prisma,apollo,mysql,mongodb" />
   </a>
 </p>
 <!-- Build tools-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gulp,rollupjs,webpack,vite,babel,tensorflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=gulp,rollupjs,webpack,vite,babel,tensorflow,stackoverflow" />
   </a>
 </p>
 <!-- Hosting service-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=codepen,heroku,vercel,netlify,nginx,firebase,aws,webflow" />
+    <img src="https://skillicons.dev/icons?i=heroku,vercel,netlify,nginx,firebase,aws,webflow" />
   </a>
 </p>
 <!-- Back-end-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,dotnet,laravel,nodejs,wordpress," />
+    <img src="https://skillicons.dev/icons?i=php,wordpress,laravel,dotnet,nodejs,jenkins" />
   </a>
 </p>
 <!-- Base-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,bash,docker,linux" />
-  </a>
-</p>
-<!-- Other -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,gherkin,jenkins,jest,md,pug,ps,postman,regex,stackoverflow,sentry" />
   </a>
 </p>
 
