@@ -21,7 +21,7 @@
 <!-- Front-end -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jquery,react,sass,bootstrap,materialui,tailwind,pug,jest,sentry" />
+    <img src="https://skillicons.dev/icons?i=nextjs,remix,jquery,react,sass,bootstrap,materialui,tailwind,pug,jest,sentry" />
   </a>
 </p>
 <!-- State management and DB -->
@@ -39,7 +39,7 @@
 <!-- Hosting service-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=heroku,vercel,netlify,nginx,firebase,aws,webflow" />
+    <img src="https://skillicons.dev/icons?i=vercel,firebase,aws,heroku,webflow,netlify,nginx" />
   </a>
 </p>
 <!-- Back-end-->
