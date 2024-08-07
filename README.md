@@ -12,16 +12,16 @@
 ---
 ### Tech stacks
 
-<!-- Web knownledge & Tools -->
+<!-- Language -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,md,gherkin,svg,regex,vscode,ps,figma,codepen,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,php,html,css,js,ts,md,gherkin,regex" />
   </a>
 </p>
 <!-- Front-end -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,remix,jquery,react,sass,bootstrap,materialui,tailwind,pug,jest,sentry" />
+    <img src="https://skillicons.dev/icons?i=nextjs,remix,react,tailwind,vitest,jest,sentry,sass,materialui,pug,svg,styledcomponents,bootstrap,jquery" />
   </a>
 </p>
 <!-- State management and DB -->
@@ -33,7 +33,7 @@
 <!-- Build tools-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gulp,rollupjs,webpack,vite,babel,tensorflow,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=vite,gulp,rollupjs,webpack,babel,tensorflow" />
   </a>
 </p>
 <!-- Hosting service-->
@@ -45,13 +45,18 @@
 <!-- Back-end-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,wordpress,laravel,dotnet,nodejs,jenkins" />
+    <img src="https://skillicons.dev/icons?i=express,laravel,wordpress,dotnet,jenkins" />
   </a>
 </p>
 <!-- Base-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,bash,docker,linux" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,vscode,ps,figma,codepen,postman,stackoverflow" />
   </a>
 </p>
 
